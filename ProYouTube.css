@@ -1,0 +1,6 @@
+.ytp-button.ytp-subtitles-button,
+.ytp-button.ytp-size-button,
+.ytp-button.ytp-fullscreen-button,
+.ytp-button.ytp-play-button {
+    display: none !important;
+}
